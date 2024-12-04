@@ -11,4 +11,4 @@ This text-based adventure game is a Sci-Fi action game set in the year 2075 on t
 - In chapter two there is one option where you will need to input a number from 100,300.
 
 
-![Game Screenshot]([https://github.com/Chris20385/the_final_war/blob/main/game.png])
+![Game Screenshot](https://github.com/Chris20385/the_final_war/blob/main/Game.png)
