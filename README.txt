@@ -1,8 +1,8 @@
-# The Final War
+The Final War
 
 This text-based adventure game is a Sci-Fi action game set in the year 2075 on the planet Nefarax. You are deployed to fight in the war for the first time, and your mission is to take out the warlord so he does not take over the planet. Do you have the power to take him out or will he defeat you and take over your home?
 
-**How to Play**
+How to Play
 
 - Download all five chapter files
 - Make sure you are on the chapter five file before doing anything else (**Doing this makes sure there are no issues playing**)
@@ -13,7 +13,7 @@ This text-based adventure game is a Sci-Fi action game set in the year 2075 on t
 
 ![Game Screenshot](https://github.com/Chris20385/the_final_war/blob/main/Game.png)
 
-**Future Development**
+Future Development
 
 This game is not 100% complete, but it is close. There is a small issue and bug that needs to be fixed.
 
