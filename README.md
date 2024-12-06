@@ -17,7 +17,5 @@ This text-based adventure game is a Sci-Fi action game set in the year 2075 on t
 
 This game is not 100% complete, but it is close. There is a small issue and bug that needs to be fixed.
 
-Future improvements:
-
 - Fix the issue where the whole game only runs if you are on chapter 6
 - Fix the bug where some players will get negative ammo depending on their choices.
