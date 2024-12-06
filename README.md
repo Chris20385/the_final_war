@@ -12,3 +12,7 @@ This text-based adventure game is a Sci-Fi action game set in the year 2075 on t
 
 
 ![Game Screenshot](https://github.com/Chris20385/the_final_war/blob/main/Game.png)
+
+**Future Development**
+
+This game is not 100% complete but its really close there is a small issue and bug that needs to be fixed 
