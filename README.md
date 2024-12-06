@@ -20,4 +20,4 @@ This game is not 100% complete, but it is close. There is a small issue and bug 
 Future improvements:
 
 - Fix the issue where the whole game only runs if you are on chapter 6
-- Fix the bug where some players will get negative ammo depending on there choices.
+- Fix the bug where some players will get negative ammo depending on their choices.
